@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Docs Research"
+  short_description: "Research product capabilities and export help docs"
+  default_prompt: "Research a website or product capabilities and compile its help documentation into structured markdown."
